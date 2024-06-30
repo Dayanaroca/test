@@ -1,2 +1,2 @@
 <?php
-echo 'my project';
+echo 'my project new git';
